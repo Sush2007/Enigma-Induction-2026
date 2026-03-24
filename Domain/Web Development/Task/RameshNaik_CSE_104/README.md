@@ -30,9 +30,8 @@ Click to visit the pages in order:
 
 ---
 
-## 🌐 Live Project
-
-[View Live Website](enigma-rameshnaik-induction-2026-ewgwf2sik.vercel.app)
+🌐 Live Project  
+[View Live Website](https://enigma-induction-2026-91e9hn7hd-rameshnaik100s-projects.vercel.app/)
 
 ---
 
