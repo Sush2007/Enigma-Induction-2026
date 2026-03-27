@@ -31,7 +31,7 @@ Click to visit the pages in order:
 ---
 
 🌐 Live Project  
-[View Live Website](enigma-induction-2026.vercel.app)
+[View Live Website](https://enigma-induction-2026.vercel.app/)
 
 ---
 
