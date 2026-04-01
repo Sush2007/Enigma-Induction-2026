@@ -9,3 +9,4 @@ index                (Status: 200) [Size: 6974]
 /shared               (Status: 301) [Size: 318]
 
 Conclusion: Successfully installed Kali Linux and performed a dirbusting attack
+Challenges Faced: testphp.vulnweb was not responding so I had to go on a search for alternatives, and had to settle for scanme.namp
